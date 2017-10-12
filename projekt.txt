@@ -13,6 +13,6 @@ Temat projektu B [link do projektu na github]
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr
 11	Rozik	Marcin Krystian
-12	Strączek	Alicja Katarzyna
+12	Strączek	Alicja Katarzyna    Projekt A: Snake [https://github.com/crystalxviolet/1]
 13	Zielińska	Paulina 
 14	Żminkowski	Łukasz 
