@@ -1,19 +1,18 @@
-Tutaj dopisujcie swoje imię, nazwisko i nazwę użytkownika githuba.
+L.p. Nazwisko Imię
+Temat projektu A [link do projektu na github]
+Temat projektu B [link do projektu na github]
 
-
-Paulina Lebiedzińska paulinalebiedzinska
-
-Jan Gruszka jasiugruszka
-Haker
-
-
-Jakub Górecki qba97x
-
-Paulina Lebiedzińska paulinalebiedzinska
-Marcin Rozik 236320
-Jan Gruszka jasiugruszka
-Haker
-
-
-...
-MichAŁ Gołdyn mgoldyn
+1	Bartoszewski	Piotr Marek
+2	Gołdyn	Michał Robert
+3	Górecki	Jakub Wiktor
+4	Grudzień	Natalia Weronika
+5	Gruszka	Jan Krzysztof
+6	Kuśmierek	Dominik Patryk
+7	Lebiedzińska	Paulina Dorota
+8	Łagoda	Bartosz Andrzej
+9	Marek	Marcin 
+10	Porębiński	Wojciech Piotr
+11	Rozik	Marcin Krystian
+12	Strączek	Alicja Katarzyna
+13	Zielińska	Paulina 
+14	Żminkowski	Łukasz 
