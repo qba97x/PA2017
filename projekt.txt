@@ -12,7 +12,8 @@ Temat projektu B [link do projektu na github]
 8	Łagoda	Bartosz Andrzej
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr
-11	Rozik	Marcin Krystian
+11	Rozik	Marcin Krystian 
+    Temat projektu A [Kółko i krzyżyk]
 12	Strączek	Alicja Katarzyna
 13	Zielińska	Paulina 
 14	Żminkowski	Łukasz 
