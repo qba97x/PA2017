@@ -4,7 +4,7 @@ Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
 2	Gołdyn	Michał Robert
-3	Górecki	Jakub Wiktor
+3	Górecki	Jakub Wiktor   Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof
 6	Kuśmierek	Dominik Patryk
@@ -13,6 +13,6 @@ Temat projektu B [link do projektu na github]
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr
 11	Rozik	Marcin Krystian
-12	Strączek	Alicja Katarzyna
+12	Strączek	Alicja Katarzyna 
 13	Zielińska	Paulina 
 14	Żminkowski	Łukasz 
