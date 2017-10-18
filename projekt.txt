@@ -14,5 +14,5 @@ Temat projektu B [link do projektu na github]
 10	Porębiński	Wojciech Piotr
 11	Rozik	Marcin Krystian
 12	Strączek	Alicja Katarzyna
-13	Zielińska	Paulina 
+13	Zielińska	Paulina           A: Zgadywanka[https://github.com/paulina1309/projekt-pierwszy.git]
 14	Żminkowski	Łukasz 
