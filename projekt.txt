@@ -12,7 +12,7 @@ Temat projektu B [link do projektu na github]
 8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr   A: Gra Arkanoid (C++) [https://github.com/ketjowp/Aplikacje]
-11	Rozik	Marcin Krystian
+11	Rozik	Marcin Krystian Temat projektu A [Kółko i krzyżyk]
 12	Strączek	Alicja Katarzyna
 13	Zielińska	Paulina           A: Zgadywanka[https://github.com/paulina1309/projekt-pierwszy.git]
 14	Żminkowski	Łukasz 
