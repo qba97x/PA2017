@@ -3,16 +3,16 @@ Temat projektu A [link do projektu na github]
 Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
-2	Gołdyn	Michał Robert
-3	Górecki	Jakub Wiktor   Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
+2	Gołdyn	Michał Robert A: WebBrowser i c# [https://github.com/mgoldyn/WebBrowser-PA-2017]
+3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
-5	Gruszka	Jan Krzysztof
+5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
 6	Kuśmierek	Dominik Patryk
-7	Lebiedzińska	Paulina Dorota
-8	Łagoda	Bartosz Andrzej
+7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
+8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
 9	Marek	Marcin 
-10	Porębiński	Wojciech Piotr
-11	Rozik	Marcin Krystian
-12	Strączek	Alicja Katarzyna 
-13	Zielińska	Paulina 
+10	Porębiński	Wojciech Piotr   A: Gra Arkanoid (C++) [https://github.com/ketjowp/Aplikacje]
+11	Rozik	Marcin Krystian Temat projektu A [Kółko i krzyżyk]
+12	Strączek	Alicja Katarzyna Projekt A: Snake [https://github.com/crystalxviolet/1]
+13	Zielińska	Paulina           A: Zgadywanka[https://github.com/paulina1309/projekt-pierwszy.git]
 14	Żminkowski	Łukasz 
