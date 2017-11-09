@@ -4,7 +4,7 @@ Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
 2	Gołdyn	Michał Robert
-3	Górecki	Jakub Wiktor
+3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof
 6	Kuśmierek	Dominik Patryk
