@@ -4,12 +4,12 @@ Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
 2	Gołdyn	Michał Robert A: WebBrowser i c# [https://github.com/mgoldyn/WebBrowser-PA-2017]
-3	Górecki	Jakub Wiktor
+3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof
 6	Kuśmierek	Dominik Patryk
 7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
-8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" (C++)
+8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr
 11	Rozik	Marcin Krystian
