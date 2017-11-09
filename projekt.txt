@@ -4,7 +4,7 @@ Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
 2	Gołdyn	Michał Robert A: WebBrowser i c# [https://github.com/mgoldyn/WebBrowser-PA-2017]
-3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1]
+3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
 6	Kuśmierek	Dominik Patryk
