@@ -6,7 +6,7 @@ Temat projektu B [link do projektu na github]
 2	Gołdyn	Michał Robert
 3	Górecki	Jakub Wiktor
 4	Grudzień	Natalia Weronika
-5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/Pong]
+5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
 6	Kuśmierek	Dominik Patryk
 7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
 8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" (C++)
