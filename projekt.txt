@@ -1,19 +1,18 @@
-Tutaj dopisujcie swoje imię, nazwisko i nazwę użytkownika githuba.
+L.p. Nazwisko Imię
+Temat projektu A [link do projektu na github]
+Temat projektu B [link do projektu na github]
 
-
-Paulina Lebiedzińska paulinalebiedzinska
-
-Jan Gruszka jasiugruszka
-Haker
-
-
-Jakub Górecki qba97x
-
-Paulina Lebiedzińska paulinalebiedzinska
-Marcin Rozik 236320
-Jan Gruszka jasiugruszka projekt 1: PONG
-Haker
-
-
-...
-MichAŁ Gołdyn mgoldyn
+1	Bartoszewski	Piotr Marek
+2	Gołdyn	Michał Robert A: WebBrowser i c# [https://github.com/mgoldyn/WebBrowser-PA-2017]
+3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1]
+4	Grudzień	Natalia Weronika
+5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
+6	Kuśmierek	Dominik Patryk
+7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
+8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
+9	Marek	Marcin 
+10	Porębiński	Wojciech Piotr
+11	Rozik	Marcin Krystian
+12	Strączek	Alicja Katarzyna
+13	Zielińska	Paulina           A: Zgadywanka[https://github.com/paulina1309/projekt-pierwszy.git]
+14	Żminkowski	Łukasz 
