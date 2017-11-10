@@ -8,7 +8,7 @@ Temat projektu B [link do projektu na github]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
 6	Kuśmierek	Dominik Patryk
-7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
+7	Lebiedzińska	Paulina Dorota   A: Zgadnij hasło C# 
 8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
 9	Marek	Marcin 
 10	Porębiński	Wojciech Piotr   A: Gra Arkanoid (C++) [https://github.com/ketjowp/Aplikacje]
