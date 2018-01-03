@@ -26,7 +26,8 @@ Temat projektu B [link do projektu na github]
 
 8	Łagoda	Bartosz Andrzej        
   A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
-
+  B: Gra "Flappy-Plane" [https://github.com/bartoszlagoda/-Gra-Flappy-Plane]
+  
 9	Marek	Marcin 
 
 10 Porębiński	Wojciech Piotr   
