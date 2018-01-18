@@ -17,7 +17,7 @@ Temat projektu B [link do projektu na github]
 
 5	Gruszka	Jan Krzysztof          
   A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
-  B: Gra "Nucenie (Android Java)  [https://github.com/jasiugruszka/Nucenie]
+  B: Gra "Nucenie (Android Java)  [https://github.com/ketjowp/NucenieGruszka]
 
 6	Kuśmierek	Dominik Patryk
 
