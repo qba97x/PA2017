@@ -44,5 +44,5 @@ Temat projektu B [link do projektu na github]
 
 13	Zielińska	Paulina           
     A: kółko  [https://github.com/paulina1309/projekt1]
-
+    B:  Odgadnij pary [https://github.com/paulina1309/Memory]
 14	Żminkowski	Łukasz 
