@@ -31,8 +31,8 @@ Temat projektu B [link do projektu na github]
 9	Marek	Marcin 
 
 10 Porębiński	Wojciech Piotr   
-   A: Gra Arkanoid (C++) [https://github.com/ketjowp/Aplikacje]
-   B: Aplikacja do nauki na koło z PA (Android Studio)
+   A: Gra Arkanoid (C++) [https://github.com/ketjowp/PAprojekt1]
+   B: Aplikacja do nauki na koło z PA (Android Studio) [https://github.com/ketjowp/PAprojekt2]
 
 11	Rozik	Marcin Krystian Temat projektu A [Kółko i krzyżyk]
 
