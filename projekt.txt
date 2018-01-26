@@ -11,7 +11,7 @@ Temat projektu B [link do projektu na github]
    B: Klient nadawania poczty studentckiej  [https://github.com/mgoldyn/MyMail1.1]
    
 3	Górecki	Jakub Wiktor 
-  A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
+  A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt B: MP3 Player [https://github.com/qba97x/Projektv2]
 
 4	Grudzień	Natalia Weronika
    A: Gra w dopasowanie [https://github.com/Grudzienn/Gra-w-D]
