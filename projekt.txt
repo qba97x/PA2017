@@ -8,6 +8,7 @@ Temat projektu B [link do projektu na github]
 
 2	Gołdyn	Michał Robert A: WebBrowser i c# [https://github.com/mgoldyn/WebBrowser-PA-2017]
    ==> uzupełnić o przechwytywanie lub podmianę informacji z DOM wybranej strony (np. wyłuskanie z HTML-DOM informacji o kursach walut).
+   B: Klient nadawania poczty studentckiej  [https://github.com/mgoldyn/MyMail1.1]
    
 3	Górecki	Jakub Wiktor 
   A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
